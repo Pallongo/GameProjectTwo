@@ -1,0 +1,5 @@
+*.log
+/Binaries
+/DerivedDataCache
+/Intermediate
+/JuegoDosProject/Saved
